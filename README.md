@@ -24,4 +24,4 @@ The problem the package solves is that different link types cannot be styled sep
 #link("+49 2422424422")
 ```
 
-![Output](example.svg)
+![Output](ressources/example.png)
