@@ -3,6 +3,7 @@
 Package for easy styling of links. See [Docs](docs/manual.pdf) for a detailed guide. Below is an example of the functionality that is added.
 The problem the package solves is that different link types cannot be styled seperatly, but are recognized as such. This package allows for easy styling of phone numbers, urls and mail addresses. It provides helper functions that return regex patterns for the most common use cases.
 
+
 ```typ
 #import "@preview/link-style:0.0.1"
 
@@ -22,3 +23,5 @@ The problem the package solves is that different link types cannot be styled sep
 
 #link("+49 2422424422")
 ```
+
+![Output](example.svg)
