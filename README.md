@@ -8,7 +8,7 @@ The problem the package solves is that different link types cannot be styled sep
 
 #show: make-link
 
-// Insert a value
+// Insert some rules
 #update-link-style(key: l-mailto(), value: it => strong(it), )
 #update-link-style(key: l-url(base: "typst\.app"), value: it => emph(it))
 #update-link-style(key: l-url(base: "google\.com"), before: l-url(base: "typst\.app"), value: it => highlight(it))
