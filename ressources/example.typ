@@ -1,4 +1,4 @@
-#import "bib.typ": *
+#import "../bib.typ": *
 
 #show: make-link
 
@@ -11,6 +11,6 @@
 
 #link("https://www.typst.app/docs")
 
-#link("google.com")
+#link("typst.app")
 
 #link("+49 2422424422")
