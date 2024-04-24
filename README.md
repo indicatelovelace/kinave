@@ -19,7 +19,7 @@ The problem the package solves is that different link types cannot be styled sep
 
 #link("https://www.typst.app/docs")
 
-#link("google.com")
+#link("typst.app")
 
 #link("+49 2422424422")
 ```
