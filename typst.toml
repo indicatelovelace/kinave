@@ -1,9 +1,0 @@
-[package]
-name = "link-style"
-version = "0.0.1"
-entrypoint = "lib.typ"
-authors = ["Lennart Schuster"]
-license = "MIT"
-description = "Easy styling for different link types like mails and urls."
-exclude = ["docs/*"]
-keywords = ["utility", "languages"]
